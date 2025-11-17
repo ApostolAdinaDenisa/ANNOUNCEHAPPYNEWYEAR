@@ -18,9 +18,9 @@ st.markdown(
     unsafe_allow_html=True
 )
 
-# FUN GIF
+# FUN GIF (functional)
 st.markdown("<div style='text-align:center;'>", unsafe_allow_html=True)
-st.image("https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWZjbGZpN3c1OHR1dWpvdXAwM2psMHhscHV1bHVjZWN6Y2Q2NzhmNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ohs7T1XVA1ZCTrpQw/giphy.gif", width=250)
+st.image("https://media.giphy.com/media/ICOgUNjpvO0PC/giphy.gif", width=250)
 st.markdown("</div>", unsafe_allow_html=True)
 
 # Two images side-by-side
@@ -49,5 +49,4 @@ if st.button("🎊 REVELION 2025-2026 TAP HERE 🎊"):
         "</h2>",
         unsafe_allow_html=True
     )
-    st.image("https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGZyb2hqbXdva2drbnRmZnk2aTJqb3MzdTFsb2ZmN2g4bjJmOHNubyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l41YmQ5JqUrQG6JWE/giphy.gif",
-             width=250)
+    st.image("https://media.giphy.com/media/ROF8OQvDmxytW/giphy.gif", width=250)
