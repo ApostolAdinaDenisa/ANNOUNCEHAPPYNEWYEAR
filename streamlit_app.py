@@ -18,9 +18,9 @@ st.markdown(
     unsafe_allow_html=True
 )
 
-# Marijuana images (100% show, no block)
-st.image("https://raw.githubusercontent.com/streamlit/emoji-shortcodes/master/docs/en/images/emoji/🌿.png", width=200)
-st.image("https://raw.githubusercontent.com/streamlit/emoji-shortcodes/master/docs/en/images/emoji/🍁.png", width=200)
+# YOUR RAW GITHUB IMAGES
+st.image("https://raw.githubusercontent.com/ApostolAdinaDenisa/ANNOUNCENEWYEAR/main/photos/weed1.jpg", width=300)
+st.image("https://raw.githubusercontent.com/ApostolAdinaDenisa/ANNOUNCENEWYEAR/main/photos/weed2.jpg", width=300)
 
 # Button
 if st.button("REVELION 2025-2026 TAP HERE"):
