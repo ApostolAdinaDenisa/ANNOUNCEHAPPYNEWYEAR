@@ -19,7 +19,7 @@ st.markdown(
 )
 
 # YOUR GitHub photos – new repo name
-st.image("https://raw.githubusercontent.com/ApostolAdinaDenisa/ANNOUNCEHAPPYNEWYEAR/main/photos/photos/weed1.jpg", width=300)
+st.image("https://raw.githubusercontent.com/ApostolAdinaDenisa/ANNOUNCEHAPPYNEWYEAR/main/photos/photos/weed1.png", width=300)
 st.image("https://raw.githubusercontent.com/ApostolAdinaDenisa/ANNOUNCEHAPPYNEWYEAR/main/photos/photos/weed2.png", width=300)
 
 # Button
