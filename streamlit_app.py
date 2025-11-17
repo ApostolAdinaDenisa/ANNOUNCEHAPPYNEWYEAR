@@ -20,7 +20,7 @@ st.markdown(
 
 # Funny GIF (works)
 st.markdown("<div style='text-align:center;'>", unsafe_allow_html=True)
-st.image("https://media.giphy.com/media/ICOgUNjpvO0PC/giphy.gif", width=250)
+st.image("https://media.giphy.com/media/l3V0G9Fp5Pv8T8uBW/giphy.gif", width=250)
 st.markdown("</div>", unsafe_allow_html=True)
 
 # 🍄 Trippy Mushroom GIF (100% functional)
