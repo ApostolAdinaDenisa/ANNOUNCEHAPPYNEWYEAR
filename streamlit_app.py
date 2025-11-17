@@ -18,7 +18,7 @@ st.markdown(
     unsafe_allow_html=True
 )
 
-# FUN GIF (functional)
+# FUN GIF (works)
 st.markdown("<div style='text-align:center;'>", unsafe_allow_html=True)
 st.image("https://media.giphy.com/media/ICOgUNjpvO0PC/giphy.gif", width=250)
 st.markdown("</div>", unsafe_allow_html=True)
@@ -42,11 +42,13 @@ st.markdown(
 )
 
 # Button
-if st.button("🎊 REVELION 2025-2026 TAP HERE 🎊"):
+if st.button("🎊 REVELION 2025-2026 ( TAP HERE ) 🎊"):
     st.markdown(
         "<h2 style='text-align:center; color:white; font-weight:bold;'>"
         "😢❌ SORRY GUYS, DAR ANUL ACESTA NU VOM FI ÎMPREUNĂ ❌😢"
         "</h2>",
         unsafe_allow_html=True
     )
-    st.image("https://media.giphy.com/media/ROF8OQvDmxytW/giphy.gif", width=250)
+
+    # KISS GIF that works
+    st.image("https://media.giphy.com/media/FqBTvSNjNzeZG/giphy.gif", width=250)
