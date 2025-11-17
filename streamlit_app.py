@@ -25,7 +25,7 @@ st.markdown("</div>", unsafe_allow_html=True)
 
 # 🍄 Trippy Mushroom GIF (100% functional)
 st.markdown("<div style='text-align:center;'>", unsafe_allow_html=True)
-st.image("https://media.giphy.com/media/l3V0G9Fp5Pv8T8uBW/giphy.gif", width=250)
+st.image("https://media.giphy.com/media/U5UYO3tSPrTLO2vtr1/giphy.gif", width=250)
 st.markdown("</div>", unsafe_allow_html=True)
 
 # Two images side-by-side
