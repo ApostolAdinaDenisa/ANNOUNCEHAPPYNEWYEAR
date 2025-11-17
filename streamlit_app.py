@@ -23,6 +23,11 @@ st.markdown("<div style='text-align:center;'>", unsafe_allow_html=True)
 st.image("https://media.giphy.com/media/ICOgUNjpvO0PC/giphy.gif", width=250)
 st.markdown("</div>", unsafe_allow_html=True)
 
+# 🍄 Funny mushroom GIF
+st.markdown("<div style='text-align:center;'>", unsafe_allow_html=True)
+st.image("https://media.giphy.com/media/3oEduSbSGpGaRX2Vri/giphy.gif", width=250)
+st.markdown("</div>", unsafe_allow_html=True)
+
 # Two images side-by-side
 col1, col2 = st.columns(2)
 
